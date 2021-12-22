@@ -7,6 +7,9 @@
 
 AndroRAT is a tool designed to give the control of the android system remotely and retrieve informations from it. Androrat is a client/server application developed in Java Android for the client side and the Server is in Python.
 
+
+[info-Page](https://awesomeopensource.com/project/karma9874/AndroRAT?categorypage=18)
+
 ##### AndroRAT will work on device from Android 4.1 (Jelly Bean) to Android 9.0 (Oreo) (API 16 to API 28)
 
 > AndroRAT also works on Android 10 (Q) but some of the interpreter command will be unstable. 
